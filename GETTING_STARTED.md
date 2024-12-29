@@ -2,9 +2,13 @@
 
 Flowise is a powerful tool that can be installed and run using Node.js. This guide provides step-by-step instructions to help you set it up and get started.
 
+
+
 ## Prerequisites 🛠️
 
 Ensure that you have Node.js installed on your PC. If you don't have it yet, download and install the latest version from the official website.
+
+
 
 ## Installation Steps 🧑‍💻
 
@@ -20,7 +24,7 @@ Launch the Node.js command prompt or your preferred terminal.
 
 Run the following command to install Flowise globally:
 
-npm install -g flowise
+`> npm install -g flowise`
 
 Note: The installation process may take some time.
 
@@ -28,15 +32,17 @@ Note: The installation process may take some time.
 
 Once the installation is complete, start Flowise by running:
 
-npm flowise start
+`> npm flowise start`
 
 This will launch Flowise on a local server, typically listening on port 3000.
+
+
 
 ## Updating Flowise 🔄
 
 To keep Flowise up-to-date, use the following command:
 
-npm update -g flowise
+`> npm update -g flowise`
 
 Important Notes 📝
 

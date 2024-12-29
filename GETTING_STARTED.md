@@ -32,7 +32,7 @@ Note: The installation process may take some time.
 
 Once the installation is complete, start Flowise by running:
 
-`> npm flowise start`
+`> npx flowise start`
 
 This will launch Flowise on a local server, typically listening on port 3000.
 
